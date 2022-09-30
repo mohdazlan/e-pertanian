@@ -1,0 +1,12 @@
+c:\users\p340\documents\visual studio 2015\Projects\e-Pertanian\e-Pertanian\bin\Debug\e-Pertanian.exe.config
+C:\Users\P340\documents\visual studio 2015\Projects\e-Pertanian\e-Pertanian\obj\Debug\e-Pertanian.vbprojResolveAssemblyReference.cache
+C:\Users\P340\documents\visual studio 2015\Projects\e-Pertanian\e-Pertanian\obj\Debug\e_Pertanian.loginFrm.resources
+C:\Users\P340\documents\visual studio 2015\Projects\e-Pertanian\e-Pertanian\obj\Debug\e_Pertanian.Resources.resources
+C:\Users\P340\documents\visual studio 2015\Projects\e-Pertanian\e-Pertanian\obj\Debug\e-Pertanian.vbproj.GenerateResource.Cache
+C:\Users\P340\documents\visual studio 2015\Projects\e-Pertanian\e-Pertanian\bin\Debug\e-Pertanian.exe
+C:\Users\P340\documents\visual studio 2015\Projects\e-Pertanian\e-Pertanian\bin\Debug\e-Pertanian.pdb
+C:\Users\P340\documents\visual studio 2015\Projects\e-Pertanian\e-Pertanian\bin\Debug\e-Pertanian.xml
+C:\Users\P340\documents\visual studio 2015\Projects\e-Pertanian\e-Pertanian\obj\Debug\e-Pertanian.exe
+C:\Users\P340\documents\visual studio 2015\Projects\e-Pertanian\e-Pertanian\obj\Debug\e-Pertanian.xml
+C:\Users\P340\documents\visual studio 2015\Projects\e-Pertanian\e-Pertanian\obj\Debug\e-Pertanian.pdb
+C:\Users\P340\documents\visual studio 2015\Projects\e-Pertanian\e-Pertanian\obj\Debug\e_Pertanian.mainFrm.resources
